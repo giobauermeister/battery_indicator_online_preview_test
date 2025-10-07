@@ -8,7 +8,7 @@
  *********************/
 
 #include "battery_gen.h"
-#include "battery_indicator.h"
+#include "battery_indicator_editor_github_test.h"
 
 /*********************
  *      DEFINES

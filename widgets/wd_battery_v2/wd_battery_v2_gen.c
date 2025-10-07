@@ -9,7 +9,7 @@
 
 #include "wd_battery_v2_private_gen.h"
 #include "lvgl/src/core/lv_obj_class_private.h"
-#include "battery_indicator.h"
+#include "battery_indicator_editor_github_test.h"
 
 /*********************
  *      DEFINES

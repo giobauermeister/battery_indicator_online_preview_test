@@ -31,9 +31,6 @@ default_target: all
 
 .SUFFIXES: .hpux_make_needs_suffix_list
 
-# Produce verbose output by default.
-VERBOSE = 1
-
 # Command-line flag to silence nested $(MAKE).
 $(VERBOSE)MAKESILENT = -s
 
@@ -133,53 +130,53 @@ lib-ui/fast:
 	cd /lved/project/preview-build && $(MAKE) $(MAKESILENT) -f project/CMakeFiles/lib-ui.dir/build.make project/CMakeFiles/lib-ui.dir/build
 .PHONY : lib-ui/fast
 
-battery_indicator.o: battery_indicator.c.o
-.PHONY : battery_indicator.o
+battery_indicator_editor_github_test.o: battery_indicator_editor_github_test.c.o
+.PHONY : battery_indicator_editor_github_test.o
 
 # target to build an object file
-battery_indicator.c.o:
-	cd /lved/project/preview-build && $(MAKE) $(MAKESILENT) -f project/CMakeFiles/lib-ui.dir/build.make project/CMakeFiles/lib-ui.dir/battery_indicator.c.o
-.PHONY : battery_indicator.c.o
+battery_indicator_editor_github_test.c.o:
+	cd /lved/project/preview-build && $(MAKE) $(MAKESILENT) -f project/CMakeFiles/lib-ui.dir/build.make project/CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test.c.o
+.PHONY : battery_indicator_editor_github_test.c.o
 
-battery_indicator.i: battery_indicator.c.i
-.PHONY : battery_indicator.i
+battery_indicator_editor_github_test.i: battery_indicator_editor_github_test.c.i
+.PHONY : battery_indicator_editor_github_test.i
 
 # target to preprocess a source file
-battery_indicator.c.i:
-	cd /lved/project/preview-build && $(MAKE) $(MAKESILENT) -f project/CMakeFiles/lib-ui.dir/build.make project/CMakeFiles/lib-ui.dir/battery_indicator.c.i
-.PHONY : battery_indicator.c.i
+battery_indicator_editor_github_test.c.i:
+	cd /lved/project/preview-build && $(MAKE) $(MAKESILENT) -f project/CMakeFiles/lib-ui.dir/build.make project/CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test.c.i
+.PHONY : battery_indicator_editor_github_test.c.i
 
-battery_indicator.s: battery_indicator.c.s
-.PHONY : battery_indicator.s
+battery_indicator_editor_github_test.s: battery_indicator_editor_github_test.c.s
+.PHONY : battery_indicator_editor_github_test.s
 
 # target to generate assembly for a file
-battery_indicator.c.s:
-	cd /lved/project/preview-build && $(MAKE) $(MAKESILENT) -f project/CMakeFiles/lib-ui.dir/build.make project/CMakeFiles/lib-ui.dir/battery_indicator.c.s
-.PHONY : battery_indicator.c.s
+battery_indicator_editor_github_test.c.s:
+	cd /lved/project/preview-build && $(MAKE) $(MAKESILENT) -f project/CMakeFiles/lib-ui.dir/build.make project/CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test.c.s
+.PHONY : battery_indicator_editor_github_test.c.s
 
-battery_indicator_gen.o: battery_indicator_gen.c.o
-.PHONY : battery_indicator_gen.o
+battery_indicator_editor_github_test_gen.o: battery_indicator_editor_github_test_gen.c.o
+.PHONY : battery_indicator_editor_github_test_gen.o
 
 # target to build an object file
-battery_indicator_gen.c.o:
-	cd /lved/project/preview-build && $(MAKE) $(MAKESILENT) -f project/CMakeFiles/lib-ui.dir/build.make project/CMakeFiles/lib-ui.dir/battery_indicator_gen.c.o
-.PHONY : battery_indicator_gen.c.o
+battery_indicator_editor_github_test_gen.c.o:
+	cd /lved/project/preview-build && $(MAKE) $(MAKESILENT) -f project/CMakeFiles/lib-ui.dir/build.make project/CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test_gen.c.o
+.PHONY : battery_indicator_editor_github_test_gen.c.o
 
-battery_indicator_gen.i: battery_indicator_gen.c.i
-.PHONY : battery_indicator_gen.i
+battery_indicator_editor_github_test_gen.i: battery_indicator_editor_github_test_gen.c.i
+.PHONY : battery_indicator_editor_github_test_gen.i
 
 # target to preprocess a source file
-battery_indicator_gen.c.i:
-	cd /lved/project/preview-build && $(MAKE) $(MAKESILENT) -f project/CMakeFiles/lib-ui.dir/build.make project/CMakeFiles/lib-ui.dir/battery_indicator_gen.c.i
-.PHONY : battery_indicator_gen.c.i
+battery_indicator_editor_github_test_gen.c.i:
+	cd /lved/project/preview-build && $(MAKE) $(MAKESILENT) -f project/CMakeFiles/lib-ui.dir/build.make project/CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test_gen.c.i
+.PHONY : battery_indicator_editor_github_test_gen.c.i
 
-battery_indicator_gen.s: battery_indicator_gen.c.s
-.PHONY : battery_indicator_gen.s
+battery_indicator_editor_github_test_gen.s: battery_indicator_editor_github_test_gen.c.s
+.PHONY : battery_indicator_editor_github_test_gen.s
 
 # target to generate assembly for a file
-battery_indicator_gen.c.s:
-	cd /lved/project/preview-build && $(MAKE) $(MAKESILENT) -f project/CMakeFiles/lib-ui.dir/build.make project/CMakeFiles/lib-ui.dir/battery_indicator_gen.c.s
-.PHONY : battery_indicator_gen.c.s
+battery_indicator_editor_github_test_gen.c.s:
+	cd /lved/project/preview-build && $(MAKE) $(MAKESILENT) -f project/CMakeFiles/lib-ui.dir/build.make project/CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test_gen.c.s
+.PHONY : battery_indicator_editor_github_test_gen.c.s
 
 components/battery_indicator/battery_gen.o: components/battery_indicator/battery_gen.c.o
 .PHONY : components/battery_indicator/battery_gen.o
@@ -805,6 +802,30 @@ screens/smartwatch/smartwatch_gen.c.s:
 	cd /lved/project/preview-build && $(MAKE) $(MAKESILENT) -f project/CMakeFiles/lib-ui.dir/build.make project/CMakeFiles/lib-ui.dir/screens/smartwatch/smartwatch_gen.c.s
 .PHONY : screens/smartwatch/smartwatch_gen.c.s
 
+screens/smartwatch_gen.o: screens/smartwatch_gen.c.o
+.PHONY : screens/smartwatch_gen.o
+
+# target to build an object file
+screens/smartwatch_gen.c.o:
+	cd /lved/project/preview-build && $(MAKE) $(MAKESILENT) -f project/CMakeFiles/lib-ui.dir/build.make project/CMakeFiles/lib-ui.dir/screens/smartwatch_gen.c.o
+.PHONY : screens/smartwatch_gen.c.o
+
+screens/smartwatch_gen.i: screens/smartwatch_gen.c.i
+.PHONY : screens/smartwatch_gen.i
+
+# target to preprocess a source file
+screens/smartwatch_gen.c.i:
+	cd /lved/project/preview-build && $(MAKE) $(MAKESILENT) -f project/CMakeFiles/lib-ui.dir/build.make project/CMakeFiles/lib-ui.dir/screens/smartwatch_gen.c.i
+.PHONY : screens/smartwatch_gen.c.i
+
+screens/smartwatch_gen.s: screens/smartwatch_gen.c.s
+.PHONY : screens/smartwatch_gen.s
+
+# target to generate assembly for a file
+screens/smartwatch_gen.c.s:
+	cd /lved/project/preview-build && $(MAKE) $(MAKESILENT) -f project/CMakeFiles/lib-ui.dir/build.make project/CMakeFiles/lib-ui.dir/screens/smartwatch_gen.c.s
+.PHONY : screens/smartwatch_gen.c.s
+
 screens/smartwatch_v2/smartwatch_v2_gen.o: screens/smartwatch_v2/smartwatch_v2_gen.c.o
 .PHONY : screens/smartwatch_v2/smartwatch_v2_gen.o
 
@@ -982,12 +1003,12 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... lib-ui"
-	@echo "... battery_indicator.o"
-	@echo "... battery_indicator.i"
-	@echo "... battery_indicator.s"
-	@echo "... battery_indicator_gen.o"
-	@echo "... battery_indicator_gen.i"
-	@echo "... battery_indicator_gen.s"
+	@echo "... battery_indicator_editor_github_test.o"
+	@echo "... battery_indicator_editor_github_test.i"
+	@echo "... battery_indicator_editor_github_test.s"
+	@echo "... battery_indicator_editor_github_test_gen.o"
+	@echo "... battery_indicator_editor_github_test_gen.i"
+	@echo "... battery_indicator_editor_github_test_gen.s"
 	@echo "... components/battery_indicator/battery_gen.o"
 	@echo "... components/battery_indicator/battery_gen.i"
 	@echo "... components/battery_indicator/battery_gen.s"
@@ -1066,6 +1087,9 @@ help:
 	@echo "... screens/smartwatch/smartwatch_gen.o"
 	@echo "... screens/smartwatch/smartwatch_gen.i"
 	@echo "... screens/smartwatch/smartwatch_gen.s"
+	@echo "... screens/smartwatch_gen.o"
+	@echo "... screens/smartwatch_gen.i"
+	@echo "... screens/smartwatch_gen.s"
 	@echo "... screens/smartwatch_v2/smartwatch_v2_gen.o"
 	@echo "... screens/smartwatch_v2/smartwatch_v2_gen.i"
 	@echo "... screens/smartwatch_v2/smartwatch_v2_gen.s"

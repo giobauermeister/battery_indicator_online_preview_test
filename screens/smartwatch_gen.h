@@ -12,6 +12,7 @@ extern "C" {
 /*********************
  *      INCLUDES
  *********************/
+
 #ifdef LV_LVGL_H_INCLUDE_SIMPLE
     #include "lvgl.h"
 #else
@@ -32,10 +33,7 @@ extern "C" {
 
 
 
-
 lv_obj_t * smartwatch_create(void);
-
-
 
 /**********************
  *      MACROS

@@ -7,7 +7,6 @@
  *      INCLUDES
  *********************/
 #include "wd_battery_private_gen.h"
-#include "ui.h"
 
 /*********************
  *      DEFINES

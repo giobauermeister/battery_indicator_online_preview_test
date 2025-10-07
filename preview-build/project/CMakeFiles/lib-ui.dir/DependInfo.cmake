@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/lved/project/battery_indicator.c" "project/CMakeFiles/lib-ui.dir/battery_indicator.c.o" "gcc" "project/CMakeFiles/lib-ui.dir/battery_indicator.c.o.d"
-  "/lved/project/battery_indicator_gen.c" "project/CMakeFiles/lib-ui.dir/battery_indicator_gen.c.o" "gcc" "project/CMakeFiles/lib-ui.dir/battery_indicator_gen.c.o.d"
+  "/lved/project/battery_indicator_editor_github_test.c" "project/CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test.c.o" "gcc" "project/CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test.c.o.d"
+  "/lved/project/battery_indicator_editor_github_test_gen.c" "project/CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test_gen.c.o" "gcc" "project/CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test_gen.c.o.d"
   "/lved/project/components/battery_indicator/battery_gen.c" "project/CMakeFiles/lib-ui.dir/components/battery_indicator/battery_gen.c.o" "gcc" "project/CMakeFiles/lib-ui.dir/components/battery_indicator/battery_gen.c.o.d"
   "/lved/project/components/battery_indicator_2/battery_indicator_2_gen.c" "project/CMakeFiles/lib-ui.dir/components/battery_indicator_2/battery_indicator_2_gen.c.o" "gcc" "project/CMakeFiles/lib-ui.dir/components/battery_indicator_2/battery_indicator_2_gen.c.o.d"
   "/lved/project/components/battery_indicator_v2/battery_indicator_v2_gen.c" "project/CMakeFiles/lib-ui.dir/components/battery_indicator_v2/battery_indicator_v2_gen.c.o" "gcc" "project/CMakeFiles/lib-ui.dir/components/battery_indicator_v2/battery_indicator_v2_gen.c.o.d"
@@ -36,6 +36,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/lved/project/images/img_thunder_transparent_data.c" "project/CMakeFiles/lib-ui.dir/images/img_thunder_transparent_data.c.o" "gcc" "project/CMakeFiles/lib-ui.dir/images/img_thunder_transparent_data.c.o.d"
   "/lved/project/images/img_thunder_v2_data.c" "project/CMakeFiles/lib-ui.dir/images/img_thunder_v2_data.c.o" "gcc" "project/CMakeFiles/lib-ui.dir/images/img_thunder_v2_data.c.o.d"
   "/lved/project/screens/smartwatch/smartwatch_gen.c" "project/CMakeFiles/lib-ui.dir/screens/smartwatch/smartwatch_gen.c.o" "gcc" "project/CMakeFiles/lib-ui.dir/screens/smartwatch/smartwatch_gen.c.o.d"
+  "/lved/project/screens/smartwatch_gen.c" "project/CMakeFiles/lib-ui.dir/screens/smartwatch_gen.c.o" "gcc" "project/CMakeFiles/lib-ui.dir/screens/smartwatch_gen.c.o.d"
   "/lved/project/screens/smartwatch_v2/smartwatch_v2_gen.c" "project/CMakeFiles/lib-ui.dir/screens/smartwatch_v2/smartwatch_v2_gen.c.o" "gcc" "project/CMakeFiles/lib-ui.dir/screens/smartwatch_v2/smartwatch_v2_gen.c.o.d"
   "/lved/project/widgets/wd_battery/wd_battery.c" "project/CMakeFiles/lib-ui.dir/widgets/wd_battery/wd_battery.c.o" "gcc" "project/CMakeFiles/lib-ui.dir/widgets/wd_battery/wd_battery.c.o.d"
   "/lved/project/widgets/wd_battery/wd_battery_gen.c" "project/CMakeFiles/lib-ui.dir/widgets/wd_battery/wd_battery_gen.c.o" "gcc" "project/CMakeFiles/lib-ui.dir/widgets/wd_battery/wd_battery_gen.c.o.d"
