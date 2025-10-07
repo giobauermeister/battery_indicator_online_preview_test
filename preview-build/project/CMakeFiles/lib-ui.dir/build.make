@@ -339,26 +339,11 @@ project/CMakeFiles/lib-ui.dir/screens/smartwatch/smartwatch_gen.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lib-ui.dir/screens/smartwatch/smartwatch_gen.c.s"
 	cd /lved/project/preview-build/project && /emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /lved/project/screens/smartwatch/smartwatch_gen.c -o CMakeFiles/lib-ui.dir/screens/smartwatch/smartwatch_gen.c.s
 
-project/CMakeFiles/lib-ui.dir/screens/smartwatch_gen.c.o: project/CMakeFiles/lib-ui.dir/flags.make
-project/CMakeFiles/lib-ui.dir/screens/smartwatch_gen.c.o: project/CMakeFiles/lib-ui.dir/includes_C.rsp
-project/CMakeFiles/lib-ui.dir/screens/smartwatch_gen.c.o: ../screens/smartwatch_gen.c
-project/CMakeFiles/lib-ui.dir/screens/smartwatch_gen.c.o: project/CMakeFiles/lib-ui.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/lved/project/preview-build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building C object project/CMakeFiles/lib-ui.dir/screens/smartwatch_gen.c.o"
-	cd /lved/project/preview-build/project && /emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT project/CMakeFiles/lib-ui.dir/screens/smartwatch_gen.c.o -MF CMakeFiles/lib-ui.dir/screens/smartwatch_gen.c.o.d -o CMakeFiles/lib-ui.dir/screens/smartwatch_gen.c.o -c /lved/project/screens/smartwatch_gen.c
-
-project/CMakeFiles/lib-ui.dir/screens/smartwatch_gen.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lib-ui.dir/screens/smartwatch_gen.c.i"
-	cd /lved/project/preview-build/project && /emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /lved/project/screens/smartwatch_gen.c > CMakeFiles/lib-ui.dir/screens/smartwatch_gen.c.i
-
-project/CMakeFiles/lib-ui.dir/screens/smartwatch_gen.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lib-ui.dir/screens/smartwatch_gen.c.s"
-	cd /lved/project/preview-build/project && /emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /lved/project/screens/smartwatch_gen.c -o CMakeFiles/lib-ui.dir/screens/smartwatch_gen.c.s
-
 project/CMakeFiles/lib-ui.dir/screens/smartwatch_v2/smartwatch_v2_gen.c.o: project/CMakeFiles/lib-ui.dir/flags.make
 project/CMakeFiles/lib-ui.dir/screens/smartwatch_v2/smartwatch_v2_gen.c.o: project/CMakeFiles/lib-ui.dir/includes_C.rsp
 project/CMakeFiles/lib-ui.dir/screens/smartwatch_v2/smartwatch_v2_gen.c.o: ../screens/smartwatch_v2/smartwatch_v2_gen.c
 project/CMakeFiles/lib-ui.dir/screens/smartwatch_v2/smartwatch_v2_gen.c.o: project/CMakeFiles/lib-ui.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/lved/project/preview-build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building C object project/CMakeFiles/lib-ui.dir/screens/smartwatch_v2/smartwatch_v2_gen.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/lved/project/preview-build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building C object project/CMakeFiles/lib-ui.dir/screens/smartwatch_v2/smartwatch_v2_gen.c.o"
 	cd /lved/project/preview-build/project && /emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT project/CMakeFiles/lib-ui.dir/screens/smartwatch_v2/smartwatch_v2_gen.c.o -MF CMakeFiles/lib-ui.dir/screens/smartwatch_v2/smartwatch_v2_gen.c.o.d -o CMakeFiles/lib-ui.dir/screens/smartwatch_v2/smartwatch_v2_gen.c.o -c /lved/project/screens/smartwatch_v2/smartwatch_v2_gen.c
 
 project/CMakeFiles/lib-ui.dir/screens/smartwatch_v2/smartwatch_v2_gen.c.i: cmake_force
@@ -373,7 +358,7 @@ project/CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test_gen.c.o: proj
 project/CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test_gen.c.o: project/CMakeFiles/lib-ui.dir/includes_C.rsp
 project/CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test_gen.c.o: ../battery_indicator_editor_github_test_gen.c
 project/CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test_gen.c.o: project/CMakeFiles/lib-ui.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/lved/project/preview-build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building C object project/CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test_gen.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/lved/project/preview-build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building C object project/CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test_gen.c.o"
 	cd /lved/project/preview-build/project && /emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT project/CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test_gen.c.o -MF CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test_gen.c.o.d -o CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test_gen.c.o -c /lved/project/battery_indicator_editor_github_test_gen.c
 
 project/CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test_gen.c.i: cmake_force
@@ -388,7 +373,7 @@ project/CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test.c.o: project/
 project/CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test.c.o: project/CMakeFiles/lib-ui.dir/includes_C.rsp
 project/CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test.c.o: ../battery_indicator_editor_github_test.c
 project/CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test.c.o: project/CMakeFiles/lib-ui.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/lved/project/preview-build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building C object project/CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/lved/project/preview-build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building C object project/CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test.c.o"
 	cd /lved/project/preview-build/project && /emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT project/CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test.c.o -MF CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test.c.o.d -o CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test.c.o -c /lved/project/battery_indicator_editor_github_test.c
 
 project/CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test.c.i: cmake_force
@@ -403,7 +388,7 @@ project/CMakeFiles/lib-ui.dir/fonts/font_hour_32_data.c.o: project/CMakeFiles/li
 project/CMakeFiles/lib-ui.dir/fonts/font_hour_32_data.c.o: project/CMakeFiles/lib-ui.dir/includes_C.rsp
 project/CMakeFiles/lib-ui.dir/fonts/font_hour_32_data.c.o: ../fonts/font_hour_32_data.c
 project/CMakeFiles/lib-ui.dir/fonts/font_hour_32_data.c.o: project/CMakeFiles/lib-ui.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/lved/project/preview-build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building C object project/CMakeFiles/lib-ui.dir/fonts/font_hour_32_data.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/lved/project/preview-build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building C object project/CMakeFiles/lib-ui.dir/fonts/font_hour_32_data.c.o"
 	cd /lved/project/preview-build/project && /emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT project/CMakeFiles/lib-ui.dir/fonts/font_hour_32_data.c.o -MF CMakeFiles/lib-ui.dir/fonts/font_hour_32_data.c.o.d -o CMakeFiles/lib-ui.dir/fonts/font_hour_32_data.c.o -c /lved/project/fonts/font_hour_32_data.c
 
 project/CMakeFiles/lib-ui.dir/fonts/font_hour_32_data.c.i: cmake_force
@@ -418,7 +403,7 @@ project/CMakeFiles/lib-ui.dir/fonts/inter_28_data.c.o: project/CMakeFiles/lib-ui
 project/CMakeFiles/lib-ui.dir/fonts/inter_28_data.c.o: project/CMakeFiles/lib-ui.dir/includes_C.rsp
 project/CMakeFiles/lib-ui.dir/fonts/inter_28_data.c.o: ../fonts/inter_28_data.c
 project/CMakeFiles/lib-ui.dir/fonts/inter_28_data.c.o: project/CMakeFiles/lib-ui.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/lved/project/preview-build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building C object project/CMakeFiles/lib-ui.dir/fonts/inter_28_data.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/lved/project/preview-build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building C object project/CMakeFiles/lib-ui.dir/fonts/inter_28_data.c.o"
 	cd /lved/project/preview-build/project && /emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT project/CMakeFiles/lib-ui.dir/fonts/inter_28_data.c.o -MF CMakeFiles/lib-ui.dir/fonts/inter_28_data.c.o.d -o CMakeFiles/lib-ui.dir/fonts/inter_28_data.c.o -c /lved/project/fonts/inter_28_data.c
 
 project/CMakeFiles/lib-ui.dir/fonts/inter_28_data.c.i: cmake_force
@@ -433,7 +418,7 @@ project/CMakeFiles/lib-ui.dir/fonts/font_hour_25_data.c.o: project/CMakeFiles/li
 project/CMakeFiles/lib-ui.dir/fonts/font_hour_25_data.c.o: project/CMakeFiles/lib-ui.dir/includes_C.rsp
 project/CMakeFiles/lib-ui.dir/fonts/font_hour_25_data.c.o: ../fonts/font_hour_25_data.c
 project/CMakeFiles/lib-ui.dir/fonts/font_hour_25_data.c.o: project/CMakeFiles/lib-ui.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/lved/project/preview-build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building C object project/CMakeFiles/lib-ui.dir/fonts/font_hour_25_data.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/lved/project/preview-build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building C object project/CMakeFiles/lib-ui.dir/fonts/font_hour_25_data.c.o"
 	cd /lved/project/preview-build/project && /emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT project/CMakeFiles/lib-ui.dir/fonts/font_hour_25_data.c.o -MF CMakeFiles/lib-ui.dir/fonts/font_hour_25_data.c.o.d -o CMakeFiles/lib-ui.dir/fonts/font_hour_25_data.c.o -c /lved/project/fonts/font_hour_25_data.c
 
 project/CMakeFiles/lib-ui.dir/fonts/font_hour_25_data.c.i: cmake_force
@@ -448,7 +433,7 @@ project/CMakeFiles/lib-ui.dir/fonts/font_inter_semibold_30_data.c.o: project/CMa
 project/CMakeFiles/lib-ui.dir/fonts/font_inter_semibold_30_data.c.o: project/CMakeFiles/lib-ui.dir/includes_C.rsp
 project/CMakeFiles/lib-ui.dir/fonts/font_inter_semibold_30_data.c.o: ../fonts/font_inter_semibold_30_data.c
 project/CMakeFiles/lib-ui.dir/fonts/font_inter_semibold_30_data.c.o: project/CMakeFiles/lib-ui.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/lved/project/preview-build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building C object project/CMakeFiles/lib-ui.dir/fonts/font_inter_semibold_30_data.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/lved/project/preview-build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building C object project/CMakeFiles/lib-ui.dir/fonts/font_inter_semibold_30_data.c.o"
 	cd /lved/project/preview-build/project && /emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT project/CMakeFiles/lib-ui.dir/fonts/font_inter_semibold_30_data.c.o -MF CMakeFiles/lib-ui.dir/fonts/font_inter_semibold_30_data.c.o.d -o CMakeFiles/lib-ui.dir/fonts/font_inter_semibold_30_data.c.o -c /lved/project/fonts/font_inter_semibold_30_data.c
 
 project/CMakeFiles/lib-ui.dir/fonts/font_inter_semibold_30_data.c.i: cmake_force
@@ -463,7 +448,7 @@ project/CMakeFiles/lib-ui.dir/fonts/font_inter_semibold_25_data.c.o: project/CMa
 project/CMakeFiles/lib-ui.dir/fonts/font_inter_semibold_25_data.c.o: project/CMakeFiles/lib-ui.dir/includes_C.rsp
 project/CMakeFiles/lib-ui.dir/fonts/font_inter_semibold_25_data.c.o: ../fonts/font_inter_semibold_25_data.c
 project/CMakeFiles/lib-ui.dir/fonts/font_inter_semibold_25_data.c.o: project/CMakeFiles/lib-ui.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/lved/project/preview-build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building C object project/CMakeFiles/lib-ui.dir/fonts/font_inter_semibold_25_data.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/lved/project/preview-build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building C object project/CMakeFiles/lib-ui.dir/fonts/font_inter_semibold_25_data.c.o"
 	cd /lved/project/preview-build/project && /emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT project/CMakeFiles/lib-ui.dir/fonts/font_inter_semibold_25_data.c.o -MF CMakeFiles/lib-ui.dir/fonts/font_inter_semibold_25_data.c.o.d -o CMakeFiles/lib-ui.dir/fonts/font_inter_semibold_25_data.c.o -c /lved/project/fonts/font_inter_semibold_25_data.c
 
 project/CMakeFiles/lib-ui.dir/fonts/font_inter_semibold_25_data.c.i: cmake_force
@@ -478,7 +463,7 @@ project/CMakeFiles/lib-ui.dir/images/img_charging_data.c.o: project/CMakeFiles/l
 project/CMakeFiles/lib-ui.dir/images/img_charging_data.c.o: project/CMakeFiles/lib-ui.dir/includes_C.rsp
 project/CMakeFiles/lib-ui.dir/images/img_charging_data.c.o: ../images/img_charging_data.c
 project/CMakeFiles/lib-ui.dir/images/img_charging_data.c.o: project/CMakeFiles/lib-ui.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/lved/project/preview-build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building C object project/CMakeFiles/lib-ui.dir/images/img_charging_data.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/lved/project/preview-build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building C object project/CMakeFiles/lib-ui.dir/images/img_charging_data.c.o"
 	cd /lved/project/preview-build/project && /emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT project/CMakeFiles/lib-ui.dir/images/img_charging_data.c.o -MF CMakeFiles/lib-ui.dir/images/img_charging_data.c.o.d -o CMakeFiles/lib-ui.dir/images/img_charging_data.c.o -c /lved/project/images/img_charging_data.c
 
 project/CMakeFiles/lib-ui.dir/images/img_charging_data.c.i: cmake_force
@@ -493,7 +478,7 @@ project/CMakeFiles/lib-ui.dir/images/img_charging_no_stroke_data.c.o: project/CM
 project/CMakeFiles/lib-ui.dir/images/img_charging_no_stroke_data.c.o: project/CMakeFiles/lib-ui.dir/includes_C.rsp
 project/CMakeFiles/lib-ui.dir/images/img_charging_no_stroke_data.c.o: ../images/img_charging_no_stroke_data.c
 project/CMakeFiles/lib-ui.dir/images/img_charging_no_stroke_data.c.o: project/CMakeFiles/lib-ui.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/lved/project/preview-build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building C object project/CMakeFiles/lib-ui.dir/images/img_charging_no_stroke_data.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/lved/project/preview-build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building C object project/CMakeFiles/lib-ui.dir/images/img_charging_no_stroke_data.c.o"
 	cd /lved/project/preview-build/project && /emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT project/CMakeFiles/lib-ui.dir/images/img_charging_no_stroke_data.c.o -MF CMakeFiles/lib-ui.dir/images/img_charging_no_stroke_data.c.o.d -o CMakeFiles/lib-ui.dir/images/img_charging_no_stroke_data.c.o -c /lved/project/images/img_charging_no_stroke_data.c
 
 project/CMakeFiles/lib-ui.dir/images/img_charging_no_stroke_data.c.i: cmake_force
@@ -508,7 +493,7 @@ project/CMakeFiles/lib-ui.dir/images/img_charging_small_data.c.o: project/CMakeF
 project/CMakeFiles/lib-ui.dir/images/img_charging_small_data.c.o: project/CMakeFiles/lib-ui.dir/includes_C.rsp
 project/CMakeFiles/lib-ui.dir/images/img_charging_small_data.c.o: ../images/img_charging_small_data.c
 project/CMakeFiles/lib-ui.dir/images/img_charging_small_data.c.o: project/CMakeFiles/lib-ui.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/lved/project/preview-build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building C object project/CMakeFiles/lib-ui.dir/images/img_charging_small_data.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/lved/project/preview-build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building C object project/CMakeFiles/lib-ui.dir/images/img_charging_small_data.c.o"
 	cd /lved/project/preview-build/project && /emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT project/CMakeFiles/lib-ui.dir/images/img_charging_small_data.c.o -MF CMakeFiles/lib-ui.dir/images/img_charging_small_data.c.o.d -o CMakeFiles/lib-ui.dir/images/img_charging_small_data.c.o -c /lved/project/images/img_charging_small_data.c
 
 project/CMakeFiles/lib-ui.dir/images/img_charging_small_data.c.i: cmake_force
@@ -523,7 +508,7 @@ project/CMakeFiles/lib-ui.dir/images/img_thunder_transparent_data.c.o: project/C
 project/CMakeFiles/lib-ui.dir/images/img_thunder_transparent_data.c.o: project/CMakeFiles/lib-ui.dir/includes_C.rsp
 project/CMakeFiles/lib-ui.dir/images/img_thunder_transparent_data.c.o: ../images/img_thunder_transparent_data.c
 project/CMakeFiles/lib-ui.dir/images/img_thunder_transparent_data.c.o: project/CMakeFiles/lib-ui.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/lved/project/preview-build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building C object project/CMakeFiles/lib-ui.dir/images/img_thunder_transparent_data.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/lved/project/preview-build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building C object project/CMakeFiles/lib-ui.dir/images/img_thunder_transparent_data.c.o"
 	cd /lved/project/preview-build/project && /emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT project/CMakeFiles/lib-ui.dir/images/img_thunder_transparent_data.c.o -MF CMakeFiles/lib-ui.dir/images/img_thunder_transparent_data.c.o.d -o CMakeFiles/lib-ui.dir/images/img_thunder_transparent_data.c.o -c /lved/project/images/img_thunder_transparent_data.c
 
 project/CMakeFiles/lib-ui.dir/images/img_thunder_transparent_data.c.i: cmake_force
@@ -538,7 +523,7 @@ project/CMakeFiles/lib-ui.dir/images/img_thunder_v2_data.c.o: project/CMakeFiles
 project/CMakeFiles/lib-ui.dir/images/img_thunder_v2_data.c.o: project/CMakeFiles/lib-ui.dir/includes_C.rsp
 project/CMakeFiles/lib-ui.dir/images/img_thunder_v2_data.c.o: ../images/img_thunder_v2_data.c
 project/CMakeFiles/lib-ui.dir/images/img_thunder_v2_data.c.o: project/CMakeFiles/lib-ui.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/lved/project/preview-build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building C object project/CMakeFiles/lib-ui.dir/images/img_thunder_v2_data.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/lved/project/preview-build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building C object project/CMakeFiles/lib-ui.dir/images/img_thunder_v2_data.c.o"
 	cd /lved/project/preview-build/project && /emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT project/CMakeFiles/lib-ui.dir/images/img_thunder_v2_data.c.o -MF CMakeFiles/lib-ui.dir/images/img_thunder_v2_data.c.o.d -o CMakeFiles/lib-ui.dir/images/img_thunder_v2_data.c.o -c /lved/project/images/img_thunder_v2_data.c
 
 project/CMakeFiles/lib-ui.dir/images/img_thunder_v2_data.c.i: cmake_force
@@ -553,7 +538,7 @@ project/CMakeFiles/lib-ui.dir/images/img_thunder_small_v2_data.c.o: project/CMak
 project/CMakeFiles/lib-ui.dir/images/img_thunder_small_v2_data.c.o: project/CMakeFiles/lib-ui.dir/includes_C.rsp
 project/CMakeFiles/lib-ui.dir/images/img_thunder_small_v2_data.c.o: ../images/img_thunder_small_v2_data.c
 project/CMakeFiles/lib-ui.dir/images/img_thunder_small_v2_data.c.o: project/CMakeFiles/lib-ui.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/lved/project/preview-build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building C object project/CMakeFiles/lib-ui.dir/images/img_thunder_small_v2_data.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/lved/project/preview-build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building C object project/CMakeFiles/lib-ui.dir/images/img_thunder_small_v2_data.c.o"
 	cd /lved/project/preview-build/project && /emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT project/CMakeFiles/lib-ui.dir/images/img_thunder_small_v2_data.c.o -MF CMakeFiles/lib-ui.dir/images/img_thunder_small_v2_data.c.o.d -o CMakeFiles/lib-ui.dir/images/img_thunder_small_v2_data.c.o -c /lved/project/images/img_thunder_small_v2_data.c
 
 project/CMakeFiles/lib-ui.dir/images/img_thunder_small_v2_data.c.i: cmake_force
@@ -568,7 +553,7 @@ project/CMakeFiles/lib-ui.dir/images/img_battery_mask_v2_data.c.o: project/CMake
 project/CMakeFiles/lib-ui.dir/images/img_battery_mask_v2_data.c.o: project/CMakeFiles/lib-ui.dir/includes_C.rsp
 project/CMakeFiles/lib-ui.dir/images/img_battery_mask_v2_data.c.o: ../images/img_battery_mask_v2_data.c
 project/CMakeFiles/lib-ui.dir/images/img_battery_mask_v2_data.c.o: project/CMakeFiles/lib-ui.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/lved/project/preview-build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building C object project/CMakeFiles/lib-ui.dir/images/img_battery_mask_v2_data.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/lved/project/preview-build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building C object project/CMakeFiles/lib-ui.dir/images/img_battery_mask_v2_data.c.o"
 	cd /lved/project/preview-build/project && /emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT project/CMakeFiles/lib-ui.dir/images/img_battery_mask_v2_data.c.o -MF CMakeFiles/lib-ui.dir/images/img_battery_mask_v2_data.c.o.d -o CMakeFiles/lib-ui.dir/images/img_battery_mask_v2_data.c.o -c /lved/project/images/img_battery_mask_v2_data.c
 
 project/CMakeFiles/lib-ui.dir/images/img_battery_mask_v2_data.c.i: cmake_force
@@ -583,7 +568,7 @@ project/CMakeFiles/lib-ui.dir/images/img_background_data.c.o: project/CMakeFiles
 project/CMakeFiles/lib-ui.dir/images/img_background_data.c.o: project/CMakeFiles/lib-ui.dir/includes_C.rsp
 project/CMakeFiles/lib-ui.dir/images/img_background_data.c.o: ../images/img_background_data.c
 project/CMakeFiles/lib-ui.dir/images/img_background_data.c.o: project/CMakeFiles/lib-ui.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/lved/project/preview-build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building C object project/CMakeFiles/lib-ui.dir/images/img_background_data.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/lved/project/preview-build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building C object project/CMakeFiles/lib-ui.dir/images/img_background_data.c.o"
 	cd /lved/project/preview-build/project && /emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT project/CMakeFiles/lib-ui.dir/images/img_background_data.c.o -MF CMakeFiles/lib-ui.dir/images/img_background_data.c.o.d -o CMakeFiles/lib-ui.dir/images/img_background_data.c.o -c /lved/project/images/img_background_data.c
 
 project/CMakeFiles/lib-ui.dir/images/img_background_data.c.i: cmake_force
@@ -598,7 +583,7 @@ project/CMakeFiles/lib-ui.dir/images/img_background_light_data.c.o: project/CMak
 project/CMakeFiles/lib-ui.dir/images/img_background_light_data.c.o: project/CMakeFiles/lib-ui.dir/includes_C.rsp
 project/CMakeFiles/lib-ui.dir/images/img_background_light_data.c.o: ../images/img_background_light_data.c
 project/CMakeFiles/lib-ui.dir/images/img_background_light_data.c.o: project/CMakeFiles/lib-ui.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/lved/project/preview-build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building C object project/CMakeFiles/lib-ui.dir/images/img_background_light_data.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/lved/project/preview-build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building C object project/CMakeFiles/lib-ui.dir/images/img_background_light_data.c.o"
 	cd /lved/project/preview-build/project && /emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT project/CMakeFiles/lib-ui.dir/images/img_background_light_data.c.o -MF CMakeFiles/lib-ui.dir/images/img_background_light_data.c.o.d -o CMakeFiles/lib-ui.dir/images/img_background_light_data.c.o -c /lved/project/images/img_background_light_data.c
 
 project/CMakeFiles/lib-ui.dir/images/img_background_light_data.c.i: cmake_force
@@ -629,7 +614,6 @@ lib__ui_OBJECTS = \
 "CMakeFiles/lib-ui.dir/components/toggle_switch/toggle_switch_gen.c.o" \
 "CMakeFiles/lib-ui.dir/components/top_bar/top_bar_gen.c.o" \
 "CMakeFiles/lib-ui.dir/screens/smartwatch/smartwatch_gen.c.o" \
-"CMakeFiles/lib-ui.dir/screens/smartwatch_gen.c.o" \
 "CMakeFiles/lib-ui.dir/screens/smartwatch_v2/smartwatch_v2_gen.c.o" \
 "CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test_gen.c.o" \
 "CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test.c.o" \
@@ -669,7 +653,6 @@ project/liblib-ui.a: project/CMakeFiles/lib-ui.dir/components/settings_panel/set
 project/liblib-ui.a: project/CMakeFiles/lib-ui.dir/components/toggle_switch/toggle_switch_gen.c.o
 project/liblib-ui.a: project/CMakeFiles/lib-ui.dir/components/top_bar/top_bar_gen.c.o
 project/liblib-ui.a: project/CMakeFiles/lib-ui.dir/screens/smartwatch/smartwatch_gen.c.o
-project/liblib-ui.a: project/CMakeFiles/lib-ui.dir/screens/smartwatch_gen.c.o
 project/liblib-ui.a: project/CMakeFiles/lib-ui.dir/screens/smartwatch_v2/smartwatch_v2_gen.c.o
 project/liblib-ui.a: project/CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test_gen.c.o
 project/liblib-ui.a: project/CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test.c.o
@@ -689,7 +672,7 @@ project/liblib-ui.a: project/CMakeFiles/lib-ui.dir/images/img_background_data.c.
 project/liblib-ui.a: project/CMakeFiles/lib-ui.dir/images/img_background_light_data.c.o
 project/liblib-ui.a: project/CMakeFiles/lib-ui.dir/build.make
 project/liblib-ui.a: project/CMakeFiles/lib-ui.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/lved/project/preview-build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Linking C static library liblib-ui.a"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/lved/project/preview-build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Linking C static library liblib-ui.a"
 	cd /lved/project/preview-build/project && $(CMAKE_COMMAND) -P CMakeFiles/lib-ui.dir/cmake_clean_target.cmake
 	cd /lved/project/preview-build/project && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/lib-ui.dir/link.txt --verbose=$(VERBOSE)
 

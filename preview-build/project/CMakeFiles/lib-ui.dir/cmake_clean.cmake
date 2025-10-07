@@ -55,8 +55,6 @@ file(REMOVE_RECURSE
   "CMakeFiles/lib-ui.dir/images/img_thunder_v2_data.c.o.d"
   "CMakeFiles/lib-ui.dir/screens/smartwatch/smartwatch_gen.c.o"
   "CMakeFiles/lib-ui.dir/screens/smartwatch/smartwatch_gen.c.o.d"
-  "CMakeFiles/lib-ui.dir/screens/smartwatch_gen.c.o"
-  "CMakeFiles/lib-ui.dir/screens/smartwatch_gen.c.o.d"
   "CMakeFiles/lib-ui.dir/screens/smartwatch_v2/smartwatch_v2_gen.c.o"
   "CMakeFiles/lib-ui.dir/screens/smartwatch_v2/smartwatch_v2_gen.c.o.d"
   "CMakeFiles/lib-ui.dir/widgets/wd_battery/wd_battery.c.o"

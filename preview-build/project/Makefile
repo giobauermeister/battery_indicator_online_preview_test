@@ -802,30 +802,6 @@ screens/smartwatch/smartwatch_gen.c.s:
 	cd /lved/project/preview-build && $(MAKE) $(MAKESILENT) -f project/CMakeFiles/lib-ui.dir/build.make project/CMakeFiles/lib-ui.dir/screens/smartwatch/smartwatch_gen.c.s
 .PHONY : screens/smartwatch/smartwatch_gen.c.s
 
-screens/smartwatch_gen.o: screens/smartwatch_gen.c.o
-.PHONY : screens/smartwatch_gen.o
-
-# target to build an object file
-screens/smartwatch_gen.c.o:
-	cd /lved/project/preview-build && $(MAKE) $(MAKESILENT) -f project/CMakeFiles/lib-ui.dir/build.make project/CMakeFiles/lib-ui.dir/screens/smartwatch_gen.c.o
-.PHONY : screens/smartwatch_gen.c.o
-
-screens/smartwatch_gen.i: screens/smartwatch_gen.c.i
-.PHONY : screens/smartwatch_gen.i
-
-# target to preprocess a source file
-screens/smartwatch_gen.c.i:
-	cd /lved/project/preview-build && $(MAKE) $(MAKESILENT) -f project/CMakeFiles/lib-ui.dir/build.make project/CMakeFiles/lib-ui.dir/screens/smartwatch_gen.c.i
-.PHONY : screens/smartwatch_gen.c.i
-
-screens/smartwatch_gen.s: screens/smartwatch_gen.c.s
-.PHONY : screens/smartwatch_gen.s
-
-# target to generate assembly for a file
-screens/smartwatch_gen.c.s:
-	cd /lved/project/preview-build && $(MAKE) $(MAKESILENT) -f project/CMakeFiles/lib-ui.dir/build.make project/CMakeFiles/lib-ui.dir/screens/smartwatch_gen.c.s
-.PHONY : screens/smartwatch_gen.c.s
-
 screens/smartwatch_v2/smartwatch_v2_gen.o: screens/smartwatch_v2/smartwatch_v2_gen.c.o
 .PHONY : screens/smartwatch_v2/smartwatch_v2_gen.o
 
@@ -1087,9 +1063,6 @@ help:
 	@echo "... screens/smartwatch/smartwatch_gen.o"
 	@echo "... screens/smartwatch/smartwatch_gen.i"
 	@echo "... screens/smartwatch/smartwatch_gen.s"
-	@echo "... screens/smartwatch_gen.o"
-	@echo "... screens/smartwatch_gen.i"
-	@echo "... screens/smartwatch_gen.s"
 	@echo "... screens/smartwatch_v2/smartwatch_v2_gen.o"
 	@echo "... screens/smartwatch_v2/smartwatch_v2_gen.i"
 	@echo "... screens/smartwatch_v2/smartwatch_v2_gen.s"

@@ -121,7 +121,6 @@ void battery_indicator_editor_github_test_init_gen(const char * asset_path);
 #include "components/toggle_switch/toggle_switch_gen.h"
 #include "components/top_bar/top_bar_gen.h"
 #include "screens/smartwatch/smartwatch_gen.h"
-#include "screens/smartwatch_gen.h"
 #include "screens/smartwatch_v2/smartwatch_v2_gen.h"
 
 #ifdef __cplusplus

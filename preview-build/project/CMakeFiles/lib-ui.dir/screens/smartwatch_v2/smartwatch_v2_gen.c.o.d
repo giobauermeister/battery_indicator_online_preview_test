@@ -546,5 +546,4 @@ project/CMakeFiles/lib-ui.dir/screens/smartwatch_v2/smartwatch_v2_gen.c.o: \
   /lved/project/components/settings_panel/settings_panel_gen.h \
   /lved/project/components/toggle_switch/toggle_switch_gen.h \
   /lved/project/components/top_bar/top_bar_gen.h \
-  /lved/project/screens/smartwatch/smartwatch_gen.h \
-  /lved/project/screens/smartwatch_gen.h
+  /lved/project/screens/smartwatch/smartwatch_gen.h
