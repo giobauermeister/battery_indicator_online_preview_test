@@ -781,7 +781,7 @@ project/CMakeFiles/lib-ui.dir/widgets/wd_battery/wd_battery_gen.c.o: \
   /lved/resources/lvgl/src/lv_api_map_v9_1.h \
   /lved/resources/lvgl/src/lv_api_map_v9_2.h \
   /lved/resources/lvgl/src/lv_api_map_v9_3.h \
-  /lved/project/battery_indicator_editor_github_test_gen.h \
+  /lved/project/battery_indicator_online_preview_test_gen.h \
   /lved/project/widgets/wd_battery_v2/wd_battery_v2_gen.h \
   /lved/project/components/battery_indicator/battery_gen.h \
   /lved/project/components/battery_indicator_2/battery_indicator_2_gen.h \
@@ -796,4 +796,4 @@ project/CMakeFiles/lib-ui.dir/widgets/wd_battery/wd_battery_gen.c.o: \
   /lved/project/components/top_bar/top_bar_gen.h \
   /lved/project/screens/smartwatch/smartwatch_gen.h \
   /lved/project/screens/smartwatch_v2/smartwatch_v2_gen.h \
-  /lved/project/battery_indicator_editor_github_test.h
+  /lved/project/battery_indicator_online_preview_test.h

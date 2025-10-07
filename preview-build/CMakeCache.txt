@@ -170,7 +170,7 @@ CMAKE_TOOLCHAIN_FILE:FILEPATH=/emsdk/upstream/emscripten/cmake/Modules/Platform/
 CMAKE_VERBOSE_MAKEFILE:BOOL=FALSE
 
 //No help, variable specified on the command line.
-CODE_PROJECT_NAME:UNINITIALIZED=battery_indicator_editor_github_test
+CODE_PROJECT_NAME:UNINITIALIZED=battery_indicator_online_preview_test
 
 //Force C/C++ compiler
 EMSCRIPTEN_FORCE_COMPILERS:BOOL=OFF

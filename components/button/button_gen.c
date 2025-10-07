@@ -8,7 +8,7 @@
  *********************/
 
 #include "button_gen.h"
-#include "battery_indicator_editor_github_test.h"
+#include "battery_indicator_online_preview_test.h"
 
 /*********************
  *      DEFINES

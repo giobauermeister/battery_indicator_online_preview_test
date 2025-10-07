@@ -354,35 +354,35 @@ project/CMakeFiles/lib-ui.dir/screens/smartwatch_v2/smartwatch_v2_gen.c.s: cmake
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lib-ui.dir/screens/smartwatch_v2/smartwatch_v2_gen.c.s"
 	cd /lved/project/preview-build/project && /emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /lved/project/screens/smartwatch_v2/smartwatch_v2_gen.c -o CMakeFiles/lib-ui.dir/screens/smartwatch_v2/smartwatch_v2_gen.c.s
 
-project/CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test_gen.c.o: project/CMakeFiles/lib-ui.dir/flags.make
-project/CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test_gen.c.o: project/CMakeFiles/lib-ui.dir/includes_C.rsp
-project/CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test_gen.c.o: ../battery_indicator_editor_github_test_gen.c
-project/CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test_gen.c.o: project/CMakeFiles/lib-ui.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/lved/project/preview-build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building C object project/CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test_gen.c.o"
-	cd /lved/project/preview-build/project && /emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT project/CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test_gen.c.o -MF CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test_gen.c.o.d -o CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test_gen.c.o -c /lved/project/battery_indicator_editor_github_test_gen.c
+project/CMakeFiles/lib-ui.dir/battery_indicator_online_preview_test_gen.c.o: project/CMakeFiles/lib-ui.dir/flags.make
+project/CMakeFiles/lib-ui.dir/battery_indicator_online_preview_test_gen.c.o: project/CMakeFiles/lib-ui.dir/includes_C.rsp
+project/CMakeFiles/lib-ui.dir/battery_indicator_online_preview_test_gen.c.o: ../battery_indicator_online_preview_test_gen.c
+project/CMakeFiles/lib-ui.dir/battery_indicator_online_preview_test_gen.c.o: project/CMakeFiles/lib-ui.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/lved/project/preview-build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building C object project/CMakeFiles/lib-ui.dir/battery_indicator_online_preview_test_gen.c.o"
+	cd /lved/project/preview-build/project && /emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT project/CMakeFiles/lib-ui.dir/battery_indicator_online_preview_test_gen.c.o -MF CMakeFiles/lib-ui.dir/battery_indicator_online_preview_test_gen.c.o.d -o CMakeFiles/lib-ui.dir/battery_indicator_online_preview_test_gen.c.o -c /lved/project/battery_indicator_online_preview_test_gen.c
 
-project/CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test_gen.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test_gen.c.i"
-	cd /lved/project/preview-build/project && /emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /lved/project/battery_indicator_editor_github_test_gen.c > CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test_gen.c.i
+project/CMakeFiles/lib-ui.dir/battery_indicator_online_preview_test_gen.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lib-ui.dir/battery_indicator_online_preview_test_gen.c.i"
+	cd /lved/project/preview-build/project && /emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /lved/project/battery_indicator_online_preview_test_gen.c > CMakeFiles/lib-ui.dir/battery_indicator_online_preview_test_gen.c.i
 
-project/CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test_gen.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test_gen.c.s"
-	cd /lved/project/preview-build/project && /emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /lved/project/battery_indicator_editor_github_test_gen.c -o CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test_gen.c.s
+project/CMakeFiles/lib-ui.dir/battery_indicator_online_preview_test_gen.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lib-ui.dir/battery_indicator_online_preview_test_gen.c.s"
+	cd /lved/project/preview-build/project && /emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /lved/project/battery_indicator_online_preview_test_gen.c -o CMakeFiles/lib-ui.dir/battery_indicator_online_preview_test_gen.c.s
 
-project/CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test.c.o: project/CMakeFiles/lib-ui.dir/flags.make
-project/CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test.c.o: project/CMakeFiles/lib-ui.dir/includes_C.rsp
-project/CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test.c.o: ../battery_indicator_editor_github_test.c
-project/CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test.c.o: project/CMakeFiles/lib-ui.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/lved/project/preview-build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building C object project/CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test.c.o"
-	cd /lved/project/preview-build/project && /emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT project/CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test.c.o -MF CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test.c.o.d -o CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test.c.o -c /lved/project/battery_indicator_editor_github_test.c
+project/CMakeFiles/lib-ui.dir/battery_indicator_online_preview_test.c.o: project/CMakeFiles/lib-ui.dir/flags.make
+project/CMakeFiles/lib-ui.dir/battery_indicator_online_preview_test.c.o: project/CMakeFiles/lib-ui.dir/includes_C.rsp
+project/CMakeFiles/lib-ui.dir/battery_indicator_online_preview_test.c.o: ../battery_indicator_online_preview_test.c
+project/CMakeFiles/lib-ui.dir/battery_indicator_online_preview_test.c.o: project/CMakeFiles/lib-ui.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/lved/project/preview-build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building C object project/CMakeFiles/lib-ui.dir/battery_indicator_online_preview_test.c.o"
+	cd /lved/project/preview-build/project && /emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT project/CMakeFiles/lib-ui.dir/battery_indicator_online_preview_test.c.o -MF CMakeFiles/lib-ui.dir/battery_indicator_online_preview_test.c.o.d -o CMakeFiles/lib-ui.dir/battery_indicator_online_preview_test.c.o -c /lved/project/battery_indicator_online_preview_test.c
 
-project/CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test.c.i"
-	cd /lved/project/preview-build/project && /emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /lved/project/battery_indicator_editor_github_test.c > CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test.c.i
+project/CMakeFiles/lib-ui.dir/battery_indicator_online_preview_test.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lib-ui.dir/battery_indicator_online_preview_test.c.i"
+	cd /lved/project/preview-build/project && /emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /lved/project/battery_indicator_online_preview_test.c > CMakeFiles/lib-ui.dir/battery_indicator_online_preview_test.c.i
 
-project/CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test.c.s"
-	cd /lved/project/preview-build/project && /emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /lved/project/battery_indicator_editor_github_test.c -o CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test.c.s
+project/CMakeFiles/lib-ui.dir/battery_indicator_online_preview_test.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lib-ui.dir/battery_indicator_online_preview_test.c.s"
+	cd /lved/project/preview-build/project && /emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /lved/project/battery_indicator_online_preview_test.c -o CMakeFiles/lib-ui.dir/battery_indicator_online_preview_test.c.s
 
 project/CMakeFiles/lib-ui.dir/fonts/font_hour_32_data.c.o: project/CMakeFiles/lib-ui.dir/flags.make
 project/CMakeFiles/lib-ui.dir/fonts/font_hour_32_data.c.o: project/CMakeFiles/lib-ui.dir/includes_C.rsp
@@ -615,8 +615,8 @@ lib__ui_OBJECTS = \
 "CMakeFiles/lib-ui.dir/components/top_bar/top_bar_gen.c.o" \
 "CMakeFiles/lib-ui.dir/screens/smartwatch/smartwatch_gen.c.o" \
 "CMakeFiles/lib-ui.dir/screens/smartwatch_v2/smartwatch_v2_gen.c.o" \
-"CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test_gen.c.o" \
-"CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test.c.o" \
+"CMakeFiles/lib-ui.dir/battery_indicator_online_preview_test_gen.c.o" \
+"CMakeFiles/lib-ui.dir/battery_indicator_online_preview_test.c.o" \
 "CMakeFiles/lib-ui.dir/fonts/font_hour_32_data.c.o" \
 "CMakeFiles/lib-ui.dir/fonts/inter_28_data.c.o" \
 "CMakeFiles/lib-ui.dir/fonts/font_hour_25_data.c.o" \
@@ -654,8 +654,8 @@ project/liblib-ui.a: project/CMakeFiles/lib-ui.dir/components/toggle_switch/togg
 project/liblib-ui.a: project/CMakeFiles/lib-ui.dir/components/top_bar/top_bar_gen.c.o
 project/liblib-ui.a: project/CMakeFiles/lib-ui.dir/screens/smartwatch/smartwatch_gen.c.o
 project/liblib-ui.a: project/CMakeFiles/lib-ui.dir/screens/smartwatch_v2/smartwatch_v2_gen.c.o
-project/liblib-ui.a: project/CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test_gen.c.o
-project/liblib-ui.a: project/CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test.c.o
+project/liblib-ui.a: project/CMakeFiles/lib-ui.dir/battery_indicator_online_preview_test_gen.c.o
+project/liblib-ui.a: project/CMakeFiles/lib-ui.dir/battery_indicator_online_preview_test.c.o
 project/liblib-ui.a: project/CMakeFiles/lib-ui.dir/fonts/font_hour_32_data.c.o
 project/liblib-ui.a: project/CMakeFiles/lib-ui.dir/fonts/inter_28_data.c.o
 project/liblib-ui.a: project/CMakeFiles/lib-ui.dir/fonts/font_hour_25_data.c.o

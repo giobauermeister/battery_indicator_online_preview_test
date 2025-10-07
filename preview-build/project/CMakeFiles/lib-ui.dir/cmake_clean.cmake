@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test.c.o"
-  "CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test.c.o.d"
-  "CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test_gen.c.o"
-  "CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test_gen.c.o.d"
+  "CMakeFiles/lib-ui.dir/battery_indicator_online_preview_test.c.o"
+  "CMakeFiles/lib-ui.dir/battery_indicator_online_preview_test.c.o.d"
+  "CMakeFiles/lib-ui.dir/battery_indicator_online_preview_test_gen.c.o"
+  "CMakeFiles/lib-ui.dir/battery_indicator_online_preview_test_gen.c.o.d"
   "CMakeFiles/lib-ui.dir/components/battery_indicator/battery_gen.c.o"
   "CMakeFiles/lib-ui.dir/components/battery_indicator/battery_gen.c.o.d"
   "CMakeFiles/lib-ui.dir/components/battery_indicator_2/battery_indicator_2_gen.c.o"

@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/lved/project/battery_indicator_editor_github_test.c" "project/CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test.c.o" "gcc" "project/CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test.c.o.d"
-  "/lved/project/battery_indicator_editor_github_test_gen.c" "project/CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test_gen.c.o" "gcc" "project/CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test_gen.c.o.d"
+  "/lved/project/battery_indicator_online_preview_test.c" "project/CMakeFiles/lib-ui.dir/battery_indicator_online_preview_test.c.o" "gcc" "project/CMakeFiles/lib-ui.dir/battery_indicator_online_preview_test.c.o.d"
+  "/lved/project/battery_indicator_online_preview_test_gen.c" "project/CMakeFiles/lib-ui.dir/battery_indicator_online_preview_test_gen.c.o" "gcc" "project/CMakeFiles/lib-ui.dir/battery_indicator_online_preview_test_gen.c.o.d"
   "/lved/project/components/battery_indicator/battery_gen.c" "project/CMakeFiles/lib-ui.dir/components/battery_indicator/battery_gen.c.o" "gcc" "project/CMakeFiles/lib-ui.dir/components/battery_indicator/battery_gen.c.o.d"
   "/lved/project/components/battery_indicator_2/battery_indicator_2_gen.c" "project/CMakeFiles/lib-ui.dir/components/battery_indicator_2/battery_indicator_2_gen.c.o" "gcc" "project/CMakeFiles/lib-ui.dir/components/battery_indicator_2/battery_indicator_2_gen.c.o.d"
   "/lved/project/components/battery_indicator_v2/battery_indicator_v2_gen.c" "project/CMakeFiles/lib-ui.dir/components/battery_indicator_v2/battery_indicator_v2_gen.c.o" "gcc" "project/CMakeFiles/lib-ui.dir/components/battery_indicator_v2/battery_indicator_v2_gen.c.o.d"

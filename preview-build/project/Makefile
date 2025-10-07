@@ -130,53 +130,53 @@ lib-ui/fast:
 	cd /lved/project/preview-build && $(MAKE) $(MAKESILENT) -f project/CMakeFiles/lib-ui.dir/build.make project/CMakeFiles/lib-ui.dir/build
 .PHONY : lib-ui/fast
 
-battery_indicator_editor_github_test.o: battery_indicator_editor_github_test.c.o
-.PHONY : battery_indicator_editor_github_test.o
+battery_indicator_online_preview_test.o: battery_indicator_online_preview_test.c.o
+.PHONY : battery_indicator_online_preview_test.o
 
 # target to build an object file
-battery_indicator_editor_github_test.c.o:
-	cd /lved/project/preview-build && $(MAKE) $(MAKESILENT) -f project/CMakeFiles/lib-ui.dir/build.make project/CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test.c.o
-.PHONY : battery_indicator_editor_github_test.c.o
+battery_indicator_online_preview_test.c.o:
+	cd /lved/project/preview-build && $(MAKE) $(MAKESILENT) -f project/CMakeFiles/lib-ui.dir/build.make project/CMakeFiles/lib-ui.dir/battery_indicator_online_preview_test.c.o
+.PHONY : battery_indicator_online_preview_test.c.o
 
-battery_indicator_editor_github_test.i: battery_indicator_editor_github_test.c.i
-.PHONY : battery_indicator_editor_github_test.i
+battery_indicator_online_preview_test.i: battery_indicator_online_preview_test.c.i
+.PHONY : battery_indicator_online_preview_test.i
 
 # target to preprocess a source file
-battery_indicator_editor_github_test.c.i:
-	cd /lved/project/preview-build && $(MAKE) $(MAKESILENT) -f project/CMakeFiles/lib-ui.dir/build.make project/CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test.c.i
-.PHONY : battery_indicator_editor_github_test.c.i
+battery_indicator_online_preview_test.c.i:
+	cd /lved/project/preview-build && $(MAKE) $(MAKESILENT) -f project/CMakeFiles/lib-ui.dir/build.make project/CMakeFiles/lib-ui.dir/battery_indicator_online_preview_test.c.i
+.PHONY : battery_indicator_online_preview_test.c.i
 
-battery_indicator_editor_github_test.s: battery_indicator_editor_github_test.c.s
-.PHONY : battery_indicator_editor_github_test.s
+battery_indicator_online_preview_test.s: battery_indicator_online_preview_test.c.s
+.PHONY : battery_indicator_online_preview_test.s
 
 # target to generate assembly for a file
-battery_indicator_editor_github_test.c.s:
-	cd /lved/project/preview-build && $(MAKE) $(MAKESILENT) -f project/CMakeFiles/lib-ui.dir/build.make project/CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test.c.s
-.PHONY : battery_indicator_editor_github_test.c.s
+battery_indicator_online_preview_test.c.s:
+	cd /lved/project/preview-build && $(MAKE) $(MAKESILENT) -f project/CMakeFiles/lib-ui.dir/build.make project/CMakeFiles/lib-ui.dir/battery_indicator_online_preview_test.c.s
+.PHONY : battery_indicator_online_preview_test.c.s
 
-battery_indicator_editor_github_test_gen.o: battery_indicator_editor_github_test_gen.c.o
-.PHONY : battery_indicator_editor_github_test_gen.o
+battery_indicator_online_preview_test_gen.o: battery_indicator_online_preview_test_gen.c.o
+.PHONY : battery_indicator_online_preview_test_gen.o
 
 # target to build an object file
-battery_indicator_editor_github_test_gen.c.o:
-	cd /lved/project/preview-build && $(MAKE) $(MAKESILENT) -f project/CMakeFiles/lib-ui.dir/build.make project/CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test_gen.c.o
-.PHONY : battery_indicator_editor_github_test_gen.c.o
+battery_indicator_online_preview_test_gen.c.o:
+	cd /lved/project/preview-build && $(MAKE) $(MAKESILENT) -f project/CMakeFiles/lib-ui.dir/build.make project/CMakeFiles/lib-ui.dir/battery_indicator_online_preview_test_gen.c.o
+.PHONY : battery_indicator_online_preview_test_gen.c.o
 
-battery_indicator_editor_github_test_gen.i: battery_indicator_editor_github_test_gen.c.i
-.PHONY : battery_indicator_editor_github_test_gen.i
+battery_indicator_online_preview_test_gen.i: battery_indicator_online_preview_test_gen.c.i
+.PHONY : battery_indicator_online_preview_test_gen.i
 
 # target to preprocess a source file
-battery_indicator_editor_github_test_gen.c.i:
-	cd /lved/project/preview-build && $(MAKE) $(MAKESILENT) -f project/CMakeFiles/lib-ui.dir/build.make project/CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test_gen.c.i
-.PHONY : battery_indicator_editor_github_test_gen.c.i
+battery_indicator_online_preview_test_gen.c.i:
+	cd /lved/project/preview-build && $(MAKE) $(MAKESILENT) -f project/CMakeFiles/lib-ui.dir/build.make project/CMakeFiles/lib-ui.dir/battery_indicator_online_preview_test_gen.c.i
+.PHONY : battery_indicator_online_preview_test_gen.c.i
 
-battery_indicator_editor_github_test_gen.s: battery_indicator_editor_github_test_gen.c.s
-.PHONY : battery_indicator_editor_github_test_gen.s
+battery_indicator_online_preview_test_gen.s: battery_indicator_online_preview_test_gen.c.s
+.PHONY : battery_indicator_online_preview_test_gen.s
 
 # target to generate assembly for a file
-battery_indicator_editor_github_test_gen.c.s:
-	cd /lved/project/preview-build && $(MAKE) $(MAKESILENT) -f project/CMakeFiles/lib-ui.dir/build.make project/CMakeFiles/lib-ui.dir/battery_indicator_editor_github_test_gen.c.s
-.PHONY : battery_indicator_editor_github_test_gen.c.s
+battery_indicator_online_preview_test_gen.c.s:
+	cd /lved/project/preview-build && $(MAKE) $(MAKESILENT) -f project/CMakeFiles/lib-ui.dir/build.make project/CMakeFiles/lib-ui.dir/battery_indicator_online_preview_test_gen.c.s
+.PHONY : battery_indicator_online_preview_test_gen.c.s
 
 components/battery_indicator/battery_gen.o: components/battery_indicator/battery_gen.c.o
 .PHONY : components/battery_indicator/battery_gen.o
@@ -979,12 +979,12 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... lib-ui"
-	@echo "... battery_indicator_editor_github_test.o"
-	@echo "... battery_indicator_editor_github_test.i"
-	@echo "... battery_indicator_editor_github_test.s"
-	@echo "... battery_indicator_editor_github_test_gen.o"
-	@echo "... battery_indicator_editor_github_test_gen.i"
-	@echo "... battery_indicator_editor_github_test_gen.s"
+	@echo "... battery_indicator_online_preview_test.o"
+	@echo "... battery_indicator_online_preview_test.i"
+	@echo "... battery_indicator_online_preview_test.s"
+	@echo "... battery_indicator_online_preview_test_gen.o"
+	@echo "... battery_indicator_online_preview_test_gen.i"
+	@echo "... battery_indicator_online_preview_test_gen.s"
 	@echo "... components/battery_indicator/battery_gen.o"
 	@echo "... components/battery_indicator/battery_gen.i"
 	@echo "... components/battery_indicator/battery_gen.s"

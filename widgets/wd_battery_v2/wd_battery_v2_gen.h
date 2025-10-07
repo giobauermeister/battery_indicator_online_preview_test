@@ -20,7 +20,7 @@ extern "C" {
     #include "lvgl/lvgl.h"
 #endif
 
-#include "battery_indicator_editor_github_test_gen.h"
+#include "battery_indicator_online_preview_test_gen.h"
 
 /*********************
  *      DEFINES
